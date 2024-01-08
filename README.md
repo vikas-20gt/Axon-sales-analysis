@@ -1,14 +1,24 @@
-🚀 Exciting Update! 📊
-Thrilled to announce that I've successfully completed my first task with PWC Virtual Case Experience using Power BI! 
+Hello everyone! 🖐
 
-Key Steps Involved:
+🚀 We've successfully implemented a Business Intelligence (BI) solution capstone project of OdinSchool .
 
-1️⃣ Data Cleaning: Employed Power Query to ensure clean, high-quality data by eliminating inconsistencies and errors.
+🔍 Business Problem Overview:
+Axon faced challenges managing and analyzing sales data, impacting decision-making. Our solution aimed to address this by creating a centralized system for accurate and up-to-date sales reports.
 
-2️⃣ Modifying Data Types: Leveraged the power of Power Query to seamlessly adjust data types for optimal analysis and visualization.
+📌 Project Objectives:
+Our capstone project had clear objectives:
+- 🔹 Import sales data from MySQL into Power BI.
+- 🔹 Clean and preprocess data using Power Query Editor.
+- 🔹 Develop a robust data model in Model View.
+- 🔹 Create DAX measures and new columns for advanced analytics.
+- 🔹 Design an interactive and visually appealing sales dashboard.
+- 🔹 Perform advanced SQL analytics for insights.
 
-3️⃣ Measure and DAX Query: Crafted sophisticated measures and DAX queries to derive insightful metrics and enhance the overall reporting functionality.
+💡 Business Impact:
+The impact is significant! Axon can now manage and analyze sales data effectively, leading to improved decision-making. 📊📈
 
-👨‍💻 The journey involved mastering the intricacies of Power BI, and I'm grateful for the opportunity to apply my skills in data transformation and analysis.
+📈 SQL Analytics:
+We used SQL queries to extract profit and trend data, adding depth to our analysis.
 
-📈 Looking forward to contributing more to data-driven insights and making a meaningful impact with the PWC Virtual Case Experience .
+🌟 Final Thoughts:
+This project successfully addressed Axon's sales data challenges, providing a robust BI solution that enhances decision-making. 💼
